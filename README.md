@@ -1,11 +1,11 @@
-About yesqa
-===========
+About yesqa-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/yesqa-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/asottile/yesqa
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/yesqa-feedstock/blob/main/LICENSE.txt)
 
 Summary: Automatically remove unnecessary `# noqa` comments.
 
