@@ -1,5 +1,5 @@
 {% set name = "yesqa" %}
-{% set version = "1.4.0" %}
+{% set version = "1.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/yesqa-{{ version }}.tar.gz
-  sha256: 7d9d784b7fb91987f9eded7d03b1a5af578e51dee59b97f0475898a2fe6a9527
+  sha256: 209c17274f3c0cc22195ddb26f93df3523634d0756f756913ed05cba970efad9
 
 build:
   entry_points:
